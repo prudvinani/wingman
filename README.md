@@ -4,7 +4,6 @@ A frontend implementation of the provided Figma design using Next.js and modern 
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://wingman-assign.vercel.app/)
 
 ## ✨ Project Specifications Implemented
 
@@ -35,25 +34,12 @@ A frontend implementation of the provided Figma design using Next.js and modern 
   - Ascending/descending options
   - Multiple field support
 
-- **Interactive Chat**
-  - Real-time messaging
-  - AI response simulation
-  - Chat history
 
 - **Pagination**
   - Page navigation
   - Items per page control
   - Total entries display
 
-## 🛠️ Technologies Used
 
-- Next.js 14
-- React
-- TypeScript
-- Tailwind CSS
-- Next.js API Routes
 
-## 🏃‍♂️ Running Locally
 
-1. Clone the repository
-[View Live Demo](https://github.com/Rahul-9211/wingman-assign)
